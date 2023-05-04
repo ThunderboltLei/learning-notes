@@ -31,20 +31,7 @@ Java全栈开发学习笔记，技术分享与交流；面试突击宝典，主�
 ## License
 [The Apache-2.0 License](LICENSE ':ignore')
 
-请自由地享受和参与开源
-
-## 捐赠
-开源不易，请多鼓励！（注：如果该项目对您有帮助，请捐赠以表示支持，谢谢！捐赠请备注 learnotes 捐赠和称呼哦，谢谢！）
-
-| 支付宝 | 微信 |
-| :------------: | :------------: |
-| ![Alipay](docs/alipay.png) | ![Wechat](docs/wechatpay.png) |
-
-## <span id="contact_me">联系作者</span>
-
-email：<a href="mailto:zmzhou-star@foxmail.com">Contact zmzhou-star</a>
-
-微信公众号：![微信公众号](docs/wechat-zmzhou-star.png)
+Happy Learning (^_^)
 
 #### 参与贡献
 
